@@ -26,4 +26,4 @@ Here is the breadbord shema.
 
 Click in the followin picture to watch the video.
 
-[![Watch the video](https://raw.githubusercontent.com/jjocenio/arduino/master/prox_alarm/picture.jpg)](https://youtu.be/XYWkN9_a1pE)
+[![Watch the video](https://raw.githubusercontent.com/jjocenio/arduino/master/prox_alarm/picture.jpg)](https://youtu.be/APMYM2LCBTI)
