@@ -22,5 +22,8 @@ It works like this:
 
 Here is the breadbord shema.
 
-![breadboard schema](https://raw.githubusercontent.com/jjocenio/arduino/master/prox_sensor/prox_sensor_bb.jpg)
+![breadboard schema](https://raw.githubusercontent.com/jjocenio/arduino/master/prox_alarm/prox_alarm_bb.jpg)
 
+Click in the followin picture to watch the video.
+
+[![Watch the video](https://raw.githubusercontent.com/jjocenio/arduino/master/prox_alarm/picture.jpg)](https://youtu.be/XYWkN9_a1pE)
