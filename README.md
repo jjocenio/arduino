@@ -1,3 +1,3 @@
 # arduino
 
-Here are projects and drafs using arduino. The projects includes the breadboard image, source and images.
+Here are projects and drafts using arduino. The projects include the breadboard image, source and images.
