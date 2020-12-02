@@ -24,6 +24,6 @@ Here is the breadbord shema.
 
 ![breadboard schema](https://raw.githubusercontent.com/jjocenio/arduino/master/prox_alarm/prox_alarm_bb.jpg)
 
-Click in the followin picture to watch the video.
+Click in the following picture to watch the video.
 
 [![Watch the video](https://raw.githubusercontent.com/jjocenio/arduino/master/prox_alarm/picture.jpg)](https://youtu.be/APMYM2LCBTI)
